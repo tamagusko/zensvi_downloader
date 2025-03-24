@@ -21,7 +21,7 @@ def main():
     if not api_key:
         raise ValueError("Mapillary API key not found in .env.")
 
-    input_csv = os.path.join("data", "pilots_coordinates.csv")
+    input_csv = os.path.join("data", "coordinates.csv")
     out_dir = "output"
 
     download_images(input_csv, out_dir, api_key)

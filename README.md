@@ -24,7 +24,7 @@ pip install zensvi python-dotenv
 MLY_API_KEY=your_mapillary_api_key_here
 ```
 
-2. Prepare your coordinates file in `data/pilots_coordinates.csv` with the following format:
+2. Prepare your coordinates file in `data/coordinates.csv` with the following format:
 
 ```csv
 lat,lon
