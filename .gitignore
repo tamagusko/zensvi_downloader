@@ -1,0 +1,21 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+
+# Virtual environment folders
+venv/
+env/
+
+# Output folders
+output/
+data/images/
+
+# Jupyter notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# MacOS metadata
+.DS_Store
