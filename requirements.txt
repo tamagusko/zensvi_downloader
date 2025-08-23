@@ -107,7 +107,7 @@ timezonefinder==6.5.3
 timm==1.0.15
 tokenizers==0.21.1
 tomli==2.2.1
-torch==2.6.0
+torch==2.7.1
 torchmetrics==1.7.0
 torchvision==0.21.0
 tqdm==4.67.1
