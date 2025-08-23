@@ -112,7 +112,7 @@ torchmetrics==1.7.0
 torchvision==0.21.0
 tqdm==4.67.1
 traitlets==5.14.3
-transformers==4.50.0
+transformers==4.53.0
 turfpy==0.0.7
 typing_extensions==4.12.2
 urllib3==2.5.0
