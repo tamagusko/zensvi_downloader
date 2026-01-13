@@ -117,7 +117,7 @@ turfpy==0.0.7
 typing_extensions==4.12.2
 urllib3==2.5.0
 vt2geojson==0.2.1
-Werkzeug==3.0.6
+Werkzeug==3.1.5
 xyzservices==2025.1.0
 yapf==0.43.0
 yarl==1.18.3
