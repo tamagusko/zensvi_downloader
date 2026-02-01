@@ -30,7 +30,7 @@ fsspec==2025.3.0
 future==1.0.0
 geographiclib==2.0
 geojson==2.5.0
-geopandas==0.14.4
+geopandas==1.1.2
 geopy==2.4.1
 gopro2gpx==0.1
 groundingdino-py==0.4.0
